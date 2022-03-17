@@ -3,7 +3,7 @@ import pandas
 
 data = {
     'Series_1':[1,3,4,5,7],
-    'Series_2':[10,20,30,40,100,250]
+    'Series_2':[10,30,40,100,250]
 }
 
 df = pandas.DataFrame(data)
