@@ -14,3 +14,4 @@ st.write('''Bruh This is streamlit. ENJOY ITTT!!''')
 
 st.write(df)
 st.line_chart(df)
+st.area_chart(df)
